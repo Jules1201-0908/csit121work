@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightcoral;
+    color: black;
+     margin: 20px
+}
+header, footer {
+    background-color:  white;    
+    padding: 18px;
+    text-align: center;
+}
+#main-title {
+    color: skyblue;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+.intro {
+    font-style: italic;
+    color: gray;
+}
+p {
+    font-size: 16px;
+    color: darkblue;
+}
+a { color: white;
+    font-weight: bold;
+}
+a:hover { 
+    color: blueviolet;
+    text-decoration: underline;
+}    
